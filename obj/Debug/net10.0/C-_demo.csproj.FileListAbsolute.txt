@@ -1,0 +1,15 @@
+/workspaces/C-_demo/bin/Debug/net10.0/C-_demo
+/workspaces/C-_demo/bin/Debug/net10.0/C-_demo.deps.json
+/workspaces/C-_demo/bin/Debug/net10.0/C-_demo.runtimeconfig.json
+/workspaces/C-_demo/bin/Debug/net10.0/C-_demo.dll
+/workspaces/C-_demo/bin/Debug/net10.0/C-_demo.pdb
+/workspaces/C-_demo/obj/Debug/net10.0/C-_demo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-_demo/obj/Debug/net10.0/C-_demo.AssemblyInfoInputs.cache
+/workspaces/C-_demo/obj/Debug/net10.0/C-_demo.AssemblyInfo.cs
+/workspaces/C-_demo/obj/Debug/net10.0/C-_demo.csproj.CoreCompileInputs.cache
+/workspaces/C-_demo/obj/Debug/net10.0/C-_demo.sourcelink.json
+/workspaces/C-_demo/obj/Debug/net10.0/C-_demo.dll
+/workspaces/C-_demo/obj/Debug/net10.0/refint/C-_demo.dll
+/workspaces/C-_demo/obj/Debug/net10.0/C-_demo.pdb
+/workspaces/C-_demo/obj/Debug/net10.0/C-_demo.genruntimeconfig.cache
+/workspaces/C-_demo/obj/Debug/net10.0/ref/C-_demo.dll
