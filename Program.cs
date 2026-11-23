@@ -1,8 +1,8 @@
 ﻿using System;
-namespace Program;
+namespace LAB2;
 
-class Program{
+class LAB2{
     static void Main(){
-        Console.WriteLine("EFREI UML Class");
+        Console.WriteLine("LAB2 : EFREI Class");
     }
 }
